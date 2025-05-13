@@ -35,6 +35,8 @@ conda install -c conda-forge google-cloud-storage
 
 gdown 1JwOn-SCyjiLncYnHNMO3WNf0NeCWwgsB -O ext_data/caption_ext_memory.pkl #Download caption memory
 
+
+
 echo "Downloading Coco dataset"
 wget http://images.cocodataset.org/zips/train2014.zip
 unzip -q train2014.zip -d data/coco/coco2014
