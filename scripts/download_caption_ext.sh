@@ -1,5 +1,5 @@
 FILE_ID="1JwOn-SCyjiLncYnHNMO3WNf0NeCWwgsB"
-FILE_NAME="/home/workspace/EVCap/ext_data/caption_ext_memory.pkl"
+FILE_NAME="/workspace/EVCap/ext_data/caption_ext_memory.pkl"
 
 CONFIRM=$(wget --quiet --save-cookies cookies.txt --keep-session-cookies --no-check-certificate \
 "https://drive.google.com/uc?export=download&id=${FILE_ID}" -O- | \
