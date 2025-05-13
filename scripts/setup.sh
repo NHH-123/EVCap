@@ -11,7 +11,7 @@ source ~/.bashrc
 
 
 echo "Cloning the repository..."
-git clone https://github.com/Hieu3333/EVCap.git
+git clone https://github.com/NHH-123/EVCap.git
 cd EVCap
 
 echo "Creating conda environment from environment.yaml..."
